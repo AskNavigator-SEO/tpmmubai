@@ -1651,7 +1651,7 @@ table, td, th {
     }
     .contant_box {
         width: 95%;
-        text-align: justify;
+        /* text-align: justify; */
         margin: auto;
     }
     
